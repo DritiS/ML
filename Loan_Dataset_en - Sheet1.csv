@@ -1,0 +1,615 @@
+Education,Self_Employed,ApplicantIncome,Property_Area,country,Loan_Status
+Graduate,No,5849,Urban,Fairfield,Y
+Graduate,No,4583,Rural,Fairfield,N
+Graduate,Yes,3000,Urban,Fairfield,Y
+Not Graduate,No,2583,Urban,Fairfield,Y
+Graduate,No,6000,Urban,Fairfield,Y
+Graduate,Yes,5417,Urban,Fairfield,Y
+Not Graduate,No,2333,Urban,Fairfield,Y
+Graduate,No,3036,Semiurban,Fairfield,N
+Graduate,No,4006,Urban,Fairfield,Y
+Graduate,No,12841,Semiurban,Fairfield,N
+Graduate,No,3200,Urban,Fairfield,Y
+Graduate,,,Urban,Fairfield,Y
+Graduate,No,3073,Urban,Fairfield,Y
+Graduate,No,1853,Rural,Fairfield,N
+Graduate,No,1299,Urban,Fairfield,Y
+Graduate,No,4950,Urban,Fairfield,Y
+Not Graduate,No,3596,Urban,Fairfield,Y
+Graduate,No,,Urban,Fairfield,N
+Not Graduate,No,4887,Rural,Fairfield,N
+Graduate,,2600,Urban,Fairfield,Y
+Not Graduate,No,7660,Urban,Fairfield,N
+Graduate,No,5955,Urban,Fairfield,Y
+Not Graduate,No,2600,Semiurban,Fairfield,N
+Not Graduate,No,3365,Rural,Fairfield,N
+Graduate,,3717,Semiurban,Fairfield,N
+Graduate,Yes,9560,Semiurban,Fairfield,Y
+Graduate,No,2799,Semiurban,Fairfield,Y
+Not Graduate,No,4226,Urban,Fairfield,Y
+Not Graduate,No,1442,Urban,Fairfield,N
+Graduate,,3750,Semiurban,Hartford,Y
+Graduate,,4166,Urban,Hartford,N
+Graduate,No,3167,Urban,Hartford,N
+Graduate,Yes,4692,Rural,Hartford,N
+Graduate,No,3500,Semiurban,Hartford,Y
+Graduate,No,12500,Rural,Hartford,N
+Graduate,No,2275,Urban,Hartford,Y
+Graduate,No,1828,Urban,Hartford,N
+Graduate,No,3667,Semiurban,Hartford,Y
+Graduate,No,,Urban,Hartford,Y
+Not Graduate,No,3748,Semiurban,Hartford,Y
+Graduate,No,3600,Urban,Hartford,N
+Graduate,No,1800,Urban,Hartford,Y
+Graduate,No,2400,Urban,Hartford,Y
+Graduate,No,3941,Semiurban,Hartford,Y
+Not Graduate,Yes,4695,Urban,Hartford,Y
+Graduate,No,3410,Urban,Hartford,Y
+Graduate,No,5649,Urban,Hartford,Y
+Graduate,No,5821,Urban,Hartford,Y
+Graduate,No,2645,Urban,Hartford,N
+Graduate,No,4000,Semiurban,Hartford,Y
+Not Graduate,No,1928,Semiurban,Hartford,Y
+Graduate,No,3086,Semiurban,Hartford,Y
+Graduate,No,4230,Semiurban,Fairfield,N
+Graduate,No,4616,Urban,Fairfield,N
+Graduate,Yes,11500,Urban,Fairfield,N
+Graduate,No,2708,Semiurban,Fairfield,Y
+Graduate,No,,Semiurban,Fairfield,Y
+Graduate,No,3366,Rural,Fairfield,N
+Graduate,No,8080,Urban,Fairfield,Y
+Not Graduate,No,3357,Urban,Fairfield,Y
+Graduate,No,2500,Urban,Fairfield,Y
+Graduate,No,3029,Urban,Fairfield,Y
+Not Graduate,Yes,2609,Rural,Fairfield,N
+Graduate,No,4945,Rural,Fairfield,N
+Graduate,No,4166,Semiurban,Fairfield,N
+Graduate,No,,Semiurban,Fairfield,N
+Not Graduate,No,3200,Urban,Fairfield,N
+Graduate,No,10750,Urban,Fairfield,Y
+Not Graduate,Yes,7100,Urban,Fairfield,Y
+Graduate,No,4300,Semiurban,Fairfield,N
+Graduate,No,3208,Urban,Fairfield,Y
+Not Graduate,Yes,1875,Semiurban,Fairfield,Y
+Graduate,No,,Semiurban,Fairfield,Y
+Not Graduate,No,4755,Semiurban,Fairfield,N
+Graduate,Yes,5266,Semiurban,Fairfield,Y
+Graduate,No,3750,Urban,Fairfield,N
+Graduate,No,3750,Urban,Fairfield,N
+Graduate,Yes,1000,Urban,Fairfield,N
+Graduate,No,3167,Semiurban,Fairfield,N
+Not Graduate,Yes,3333,Semiurban,Fairfield,Y
+Graduate,No,3846,Semiurban,Fairfield,Y
+Graduate,Yes,2395,Semiurban,Hartford,Y
+Graduate,No,1378,Urban,Hartford,N
+Graduate,No,6000,Semiurban,Hartford,N
+Graduate,No,3988,Urban,Hartford,Y
+Graduate,No,2366,Semiurban,Hartford,Y
+Not Graduate,No,3333,Semiurban,Hartford,Y
+Graduate,No,2500,Semiurban,Hartford,Y
+Graduate,No,8566,Urban,Hartford,Y
+Graduate,No,5695,Semiurban,Hartford,Y
+Graduate,No,2958,Semiurban,Hartford,Y
+Graduate,No,,Semiurban,Hartford,Y
+Not Graduate,No,3273,Urban,Hartford,Y
+Graduate,No,,Semiurban,Hartford,Y
+Not Graduate,No,3620,Semiurban,Hartford,Y
+Graduate,,6782,Urban,Hartford,N
+Graduate,No,2484,Semiurban,Hartford,Y
+Graduate,No,1977,Semiurban,Hartford,Y
+Not Graduate,No,4188,Semiurban,Hartford,Y
+Graduate,No,1759,Semiurban,Hartford,Y
+Not Graduate,No,4288,Urban,Hartford,Y
+Graduate,No,4843,Semiurban,Hartford,Y
+Graduate,No,13650,Urban,Hartford,Y
+Graduate,No,4652,Semiurban,Hartford,Y
+Graduate,No,3816,Urban,Fairfield,Y
+Graduate,No,3052,Urban,Fairfield,Y
+Graduate,No,11417,Urban,Fairfield,Y
+Not Graduate,,7333,Rural,Fairfield,N
+Graduate,No,3800,Urban,Fairfield,N
+Not Graduate,No,2071,Semiurban,Fairfield,Y
+Graduate,No,5316,Urban,Fairfield,Y
+Graduate,,2929,Semiurban,Fairfield,Y
+Not Graduate,No,3572,Rural,Fairfield,N
+Graduate,Yes,7451,Semiurban,Fairfield,Y
+Graduate,,5050,Semiurban,Fairfield,Y
+Graduate,No,14583,Rural,Fairfield,Y
+Graduate,No,3167,Semiurban,Fairfield,Y
+Graduate,No,2214,Urban,Fairfield,Y
+Graduate,No,5568,Rural,Fairfield,N
+Graduate,No,10408,Urban,Fairfield,Y
+Graduate,No,5667,Rural,Fairfield,Y
+Graduate,No,,Semiurban,Fairfield,Y
+Graduate,No,2137,Semiurban,Fairfield,Y
+Graduate,No,2957,Semiurban,Fairfield,Y
+Not Graduate,No,,Rural,Fairfield,Y
+Graduate,No,3692,Rural,Fairfield,Y
+Graduate,No,23803,Rural,Fairfield,Y
+Graduate,No,3865,Rural,Fairfield,Y
+Graduate,Yes,10513,Urban,Fairfield,N
+Graduate,No,6080,Rural,Fairfield,N
+Graduate,Yes,20166,Urban,Fairfield,Y
+Graduate,No,2014,Urban,Fairfield,Y
+Graduate,No,2718,Semiurban,Fairfield,Y
+Graduate,Yes,3459,Semiurban,Hartford,Y
+Graduate,No,4895,Semiurban,Hartford,Y
+Graduate,No,4000,Semiurban,Hartford,N
+Graduate,No,4583,Rural,Hartford,N
+Graduate,Yes,3316,Urban,Hartford,Y
+Graduate,No,14999,Semiurban,Hartford,N
+Not Graduate,No,,Rural,Hartford,N
+Graduate,No,5042,Rural,Hartford,N
+Graduate,No,5417,Urban,Hartford,Y
+Graduate,Yes,6950,Semiurban,Hartford,Y
+Graduate,No,2698,Semiurban,Hartford,Y
+Graduate,No,11757,Urban,Hartford,Y
+Graduate,No,2330,Semiurban,Hartford,Y
+Graduate,No,14866,Urban,Hartford,Y
+Graduate,No,1538,Urban,Hartford,Y
+Graduate,No,10000,Rural,Hartford,N
+Graduate,No,4860,Semiurban,Hartford,Y
+Graduate,No,6277,Rural,Hartford,N
+Graduate,Yes,,Rural,Hartford,Y
+Graduate,No,9166,Urban,Hartford,N
+Not Graduate,No,2281,Rural,Hartford,N
+Graduate,No,3254,Urban,Hartford,Y
+Graduate,No,39999,Semiurban,Hartford,Y
+Graduate,No,6000,Rural,Fairfield,Y
+Graduate,No,9538,Urban,Fairfield,Y
+Graduate,,,Rural,Fairfield,Y
+Graduate,No,4583,Semiurban,Fairfield,Y
+Not Graduate,No,1863,Semiurban,Fairfield,Y
+Graduate,No,7933,Urban,Fairfield,N
+Graduate,No,3089,Semiurban,Fairfield,N
+Graduate,No,4167,Rural,Fairfield,Y
+Graduate,No,9323,Urban,Fairfield,Y
+Graduate,No,3707,Rural,Fairfield,Y
+Graduate,No,4583,Rural,Fairfield,N
+Graduate,No,2439,Rural,Fairfield,Y
+Graduate,No,2237,Semiurban,Fairfield,N
+Graduate,No,8000,Semiurban,Fairfield,Y
+Not Graduate,,1820,Rural,Fairfield,Y
+Graduate,No,51763,Urban,Fairfield,Y
+Not Graduate,No,3522,Rural,Fairfield,N
+Graduate,No,,Semiurban,Fairfield,Y
+Not Graduate,Yes,4344,Semiurban,Fairfield,N
+Graduate,No,3497,Rural,Fairfield,Y
+Graduate,No,2045,Rural,Fairfield,Y
+Graduate,No,5516,Semiurban,Fairfield,N
+Graduate,No,3750,Semiurban,Fairfield,Y
+Not Graduate,No,2333,Urban,Fairfield,N
+Graduate,No,6400,Urban,Fairfield,N
+Graduate,No,1916,Rural,Fairfield,N
+Graduate,No,4600,Semiurban,Fairfield,Y
+Graduate,No,,Semiurban,Fairfield,N
+Graduate,No,3625,Semiurban,Fairfield,Y
+Graduate,Yes,39147,Semiurban,Hartford,Y
+Graduate,Yes,,Rural,Hartford,N
+Graduate,No,2383,Rural,Hartford,Y
+Graduate,Yes,674,Rural,Hartford,Y
+Graduate,No,9328,Rural,Hartford,Y
+Not Graduate,No,4885,Rural,Hartford,Y
+Graduate,No,12000,Semiurban,Hartford,N
+Not Graduate,No,6033,Urban,Hartford,N
+Graduate,No,3858,Semiurban,Hartford,Y
+Graduate,No,4191,Rural,Hartford,Y
+Graduate,No,3125,Semiurban,Hartford,N
+Graduate,No,8333,Rural,Hartford,Y
+Not Graduate,No,1907,Urban,Hartford,Y
+Graduate,No,3416,Semiurban,Hartford,Y
+Graduate,Yes,11000,Urban,Hartford,N
+Not Graduate,No,2600,Semiurban,Hartford,Y
+Graduate,No,4923,Semiurban,Hartford,Y
+Not Graduate,No,3992,Urban,Hartford,N
+Not Graduate,No,3500,Urban,Hartford,Y
+Not Graduate,No,3917,Semiurban,Hartford,Y
+Not Graduate,No,4408,Semiurban,Hartford,Y
+Graduate,No,3244,Urban,Hartford,Y
+Not Graduate,No,3975,Rural,Hartford,Y
+Graduate,No,2479,Urban,Hartford,Y
+Graduate,No,3418,Semiurban,Hartford,N
+Graduate,No,10000,Semiurban,Hartford,N
+Graduate,No,3430,Semiurban,Hartford,N
+Graduate,Yes,7787,Urban,Hartford,Y
+Not Graduate,Yes,5703,Rural,Hartford,Y
+Graduate,No,3173,Urban,Litchfield,Y
+Not Graduate,No,3850,Semiurban,Litchfield,Y
+Graduate,No,150,Rural,Litchfield,N
+Graduate,No,3727,Semiurban,Litchfield,Y
+Graduate,,5000,Semiurban,Litchfield,N
+Graduate,No,4283,Semiurban,Litchfield,Y
+Graduate,No,2221,Urban,Litchfield,N
+Graduate,No,4009,Semiurban,Litchfield,Y
+Graduate,No,2971,Semiurban,Litchfield,Y
+Graduate,No,7578,Semiurban,Litchfield,Y
+Graduate,No,6250,Semiurban,Litchfield,Y
+Graduate,No,3250,Rural,Litchfield,N
+Not Graduate,Yes,4735,Urban,Litchfield,N
+Graduate,No,6250,Semiurban,Litchfield,Y
+Graduate,No,4758,Semiurban,Litchfield,Y
+Graduate,Yes,6400,Rural,Litchfield,Y
+Graduate,No,2491,Semiurban,Litchfield,Y
+Graduate,,3716,Rural,Litchfield,Y
+Not Graduate,No,3189,Rural,Litchfield,Y
+Graduate,No,8333,Semiurban,Litchfield,Y
+Graduate,No,3155,Semiurban,Litchfield,Y
+Graduate,No,5500,Rural,Litchfield,Y
+Graduate,,5746,Urban,Litchfield,N
+Graduate,Yes,3463,Urban,Litchfield,Y
+Graduate,No,3812,Rural,Litchfield,Y
+Graduate,No,3315,Semiurban,Litchfield,Y
+Graduate,No,5819,Rural,Litchfield,Y
+Not Graduate,No,2510,Urban,Litchfield,N
+Graduate,No,2965,Urban,Litchfield,Y
+Graduate,Yes,6250,Rural,Litchfield,Y
+Not Graduate,No,3406,Semiurban,Litchfield,Y
+Graduate,Yes,6050,Urban,Litchfield,N
+Graduate,No,9703,Urban,Middlesex,Y
+Not Graduate,No,6608,Urban,Middlesex,Y
+Graduate,No,2882,Semiurban,Middlesex,Y
+Graduate,No,1809,Urban,Middlesex,Y
+Not Graduate,No,1668,Semiurban,Middlesex,N
+Graduate,No,3427,Urban,Middlesex,N
+Not Graduate,Yes,2583,Rural,Middlesex,Y
+Not Graduate,No,2661,Semiurban,Middlesex,Y
+Graduate,Yes,16250,Urban,Middlesex,N
+Graduate,No,3083,Rural,Middlesex,Y
+Not Graduate,No,6045,Rural,Middlesex,N
+Graduate,No,5250,Urban,Middlesex,N
+Graduate,No,14683,Rural,Middlesex,N
+Not Graduate,No,4931,Semiurban,Middlesex,N
+Graduate,No,6083,Urban,Middlesex,Y
+Graduate,No,2060,Semiurban,Middlesex,Y
+Graduate,No,3481,Semiurban,Middlesex,N
+Graduate,No,7200,Rural,Middlesex,Y
+Graduate,Yes,5166,Semiurban,Middlesex,Y
+Graduate,No,4095,Rural,Middlesex,Y
+Graduate,No,4708,Semiurban,Middlesex,Y
+Graduate,No,4333,Urban,Middlesex,Y
+Graduate,,3418,Rural,Middlesex,N
+Graduate,No,2876,Urban,Middlesex,Y
+Graduate,No,3237,Urban,Middlesex,Y
+Graduate,No,11146,Urban,Connecticut,Y
+Graduate,No,2833,Rural,Connecticut,Y
+Graduate,No,2620,Semiurban,Connecticut,Y
+Graduate,No,3900,Semiurban,Connecticut,Y
+Graduate,No,2750,Semiurban,Connecticut,Y
+Graduate,No,3993,Semiurban,Connecticut,Y
+Graduate,No,3103,Urban,Connecticut,Y
+Graduate,No,14583,Semiurban,Connecticut,Y
+Not Graduate,No,4100,Rural,Connecticut,Y
+Not Graduate,Yes,4053,Urban,Connecticut,N
+Graduate,No,3927,Semiurban,Connecticut,Y
+Graduate,No,2301,Urban,Connecticut,Y
+Graduate,No,1811,Urban,Connecticut,Y
+Graduate,No,20667,Rural,Connecticut,N
+Graduate,No,3158,Rural,Connecticut,Y
+Graduate,Yes,2600,Semiurban,Connecticut,N
+Graduate,No,3704,Rural,Connecticut,Y
+Graduate,No,4124,Semiurban,Connecticut,Y
+Graduate,No,9508,Rural,Connecticut,Y
+Graduate,No,3075,Rural,Connecticut,Y
+Graduate,No,4400,Semiurban,Connecticut,N
+Graduate,No,3153,Urban,Connecticut,Y
+Graduate,No,5417,Urban,Connecticut,N
+Graduate,No,2383,Semiurban,Connecticut,Y
+Graduate,,4416,Urban,Connecticut,Y
+Graduate,No,6875,Semiurban,Connecticut,Y
+Graduate,No,4666,Urban,Connecticut,Y
+Graduate,No,5000,Rural,Connecticut,N
+Graduate,No,2014,Urban,Connecticut,N
+Not Graduate,No,1800,Urban,Connecticut,N
+Not Graduate,No,2875,Semiurban,Connecticut,Y
+Graduate,No,5000,Rural,Connecticut,Y
+Graduate,No,1625,Urban,Connecticut,Y
+Graduate,No,4000,Rural,Connecticut,Y
+Not Graduate,No,2000,Urban,Connecticut,N
+Graduate,No,3762,Rural,Connecticut,Y
+Graduate,No,2400,Urban,Connecticut,N
+Graduate,No,20233,Rural,Connecticut,N
+Not Graduate,No,7667,Rural,Connecticut,Y
+Graduate,No,2917,Semiurban,Connecticut,Y
+Not Graduate,No,2927,Semiurban,Connecticut,Y
+Graduate,No,2507,Rural,Connecticut,Y
+Graduate,Yes,5746,Rural,Connecticut,Y
+Graduate,No,2473,Rural,Connecticut,N
+Not Graduate,No,3399,Urban,Connecticut,Y
+Graduate,No,3717,Semiurban,Connecticut,Y
+Graduate,No,2058,Urban,Connecticut,Y
+Graduate,No,3541,Semiurban,Connecticut,Y
+Graduate,Yes,10000,Rural,Connecticut,N
+Graduate,No,2400,Semiurban,Connecticut,Y
+Graduate,No,4342,Semiurban,Connecticut,Y
+Not Graduate,No,3601,Rural,Connecticut,Y
+Graduate,No,3166,Rural,Connecticut,Y
+Graduate,No,15000,Rural,Connecticut,Y
+Graduate,Yes,8666,Rural,Connecticut,N
+Graduate,No,4917,Rural,Connecticut,Y
+Graduate,Yes,5818,Semiurban,Connecticut,Y
+Graduate,No,4333,Urban,Connecticut,N
+Graduate,No,2500,Urban,Connecticut,Y
+Graduate,No,4384,Urban,Connecticut,Y
+Graduate,No,2935,Semiurban,Connecticut,Y
+Graduate,No,2833,Urban,Connecticut,Y
+Graduate,,63337,Urban,Connecticut,Y
+Graduate,Yes,9833,Urban,Connecticut,Y
+Graduate,Yes,5503,Semiurban,Connecticut,Y
+Graduate,,5250,Rural,Connecticut,Y
+Graduate,Yes,2500,Rural,Connecticut,Y
+Not Graduate,No,1830,Urban,Connecticut,N
+Graduate,No,4160,Semiurban,Connecticut,Y
+Not Graduate,No,2647,Rural,Connecticut,N
+Graduate,No,2378,Rural,Connecticut,N
+Not Graduate,No,4554,Urban,Connecticut,Y
+Not Graduate,No,3173,Semiurban,Connecticut,Y
+Graduate,,2583,Rural,Connecticut,Y
+Graduate,No,2499,Semiurban,Connecticut,Y
+Not Graduate,No,3523,Rural,Connecticut,N
+Not Graduate,No,3083,Urban,Connecticut,Y
+Graduate,No,6333,Semiurban,Connecticut,Y
+Graduate,No,2625,Rural,Connecticut,Y
+Graduate,No,9083,Semiurban,Connecticut,Y
+Graduate,No,8750,Rural,Connecticut,N
+Graduate,No,2666,Rural,Connecticut,Y
+Graduate,Yes,5500,Rural,Connecticut,N
+Graduate,No,2423,Semiurban,Connecticut,Y
+Graduate,No,3813,Urban,Connecticut,Y
+Graduate,No,8333,Rural,Connecticut,Y
+Graduate,No,3875,Urban,Connecticut,N
+Not Graduate,No,3000,Urban,Connecticut,N
+Graduate,No,5167,Semiurban,Connecticut,Y
+Graduate,No,4723,Semiurban,Connecticut,N
+Graduate,No,5000,Semiurban,Hartford,Y
+Graduate,No,4750,Urban,Hartford,Y
+Graduate,No,3013,Urban,Hartford,Y
+Graduate,Yes,6822,Rural,Hartford,Y
+Not Graduate,No,6216,Rural,Hartford,N
+Graduate,No,2500,Semiurban,Hartford,N
+Graduate,No,5124,Rural,Hartford,N
+Graduate,No,6325,Semiurban,Hartford,Y
+Graduate,No,19730,Rural,Hartford,N
+Graduate,Yes,15759,Semiurban,Hartford,Y
+Graduate,No,5185,Semiurban,Hartford,Y
+Graduate,Yes,9323,Rural,Hartford,Y
+Graduate,No,3062,Urban,Hartford,N
+Graduate,,2764,Urban,Hartford,Y
+Graduate,No,4817,Urban,Hartford,Y
+Graduate,No,8750,Rural,Hartford,Y
+Graduate,No,4310,Semiurban,Hartford,Y
+Graduate,No,3069,Urban,Hartford,N
+Graduate,No,5391,Urban,Hartford,Y
+Graduate,,3333,Semiurban,Hartford,Y
+Graduate,No,5941,Semiurban,Hartford,Y
+Graduate,No,6000,Urban,Hartford,Y
+Graduate,Yes,7167,Urban,Hartford,Y
+Graduate,No,4566,Urban,Hartford,N
+Graduate,,3667,Urban,Hartford,Y
+Not Graduate,No,2346,Semiurban,Hartford,Y
+Not Graduate,No,3010,Urban,Hartford,N
+Graduate,No,2333,Urban,Hartford,Y
+Graduate,No,5488,Rural,Hartford,Y
+Graduate,No,9167,Rural,Litchfield,Y
+Graduate,No,9504,Rural,Litchfield,Y
+Graduate,No,2583,Urban,Litchfield,Y
+Not Graduate,No,1993,Semiurban,Litchfield,Y
+Graduate,No,3100,Urban,Litchfield,Y
+Graduate,No,3276,Semiurban,Litchfield,Y
+Graduate,No,3180,Urban,Litchfield,N
+Graduate,No,3033,Urban,Litchfield,Y
+Not Graduate,No,3902,Rural,Litchfield,Y
+Graduate,No,1500,Semiurban,Litchfield,N
+Not Graduate,No,2889,Urban,Litchfield,N
+Not Graduate,No,2755,Rural,Litchfield,N
+Graduate,No,2500,Semiurban,Litchfield,Y
+Not Graduate,No,1963,Semiurban,Litchfield,Y
+Graduate,Yes,7441,Rural,Litchfield,N
+Graduate,No,4547,Semiurban,Litchfield,Y
+Not Graduate,No,2167,Urban,Litchfield,Y
+Not Graduate,No,2213,Rural,Litchfield,Y
+Graduate,No,8300,Semiurban,Litchfield,N
+Graduate,No,81000,Rural,Litchfield,N
+Not Graduate,Yes,3867,Semiurban,Litchfield,N
+Graduate,,6256,Urban,Litchfield,Y
+Not Graduate,No,6096,Rural,Litchfield,N
+Not Graduate,No,2253,Rural,Litchfield,Y
+Not Graduate,No,2149,Semiurban,Litchfield,N
+Graduate,No,2995,Urban,Litchfield,Y
+Graduate,No,2600,Urban,Litchfield,N
+Graduate,Yes,1600,Urban,Litchfield,N
+Graduate,No,1025,Rural,Litchfield,Y
+Graduate,No,3246,Semiurban,Litchfield,Y
+Graduate,No,5829,Rural,Litchfield,Y
+Not Graduate,No,2720,Urban,Litchfield,N
+Graduate,No,1820,Urban,Middlesex,Y
+Graduate,No,7250,Urban,Middlesex,N
+Graduate,No,14880,Semiurban,Middlesex,Y
+Graduate,No,2666,Rural,Middlesex,Y
+Not Graduate,No,4606,Rural,Middlesex,N
+Graduate,No,5935,Semiurban,Middlesex,Y
+Graduate,No,2920,Rural,Middlesex,Y
+Not Graduate,No,2717,Urban,Middlesex,Y
+Graduate,Yes,8624,Semiurban,Middlesex,Y
+Graduate,No,6500,Rural,Middlesex,N
+Graduate,,12876,Semiurban,Middlesex,Y
+Graduate,No,2425,Semiurban,Middlesex,Y
+Graduate,No,3750,Urban,Middlesex,Y
+Graduate,No,10047,Semiurban,Middlesex,Y
+Graduate,No,1926,Semiurban,Middlesex,Y
+Graduate,No,2213,Urban,Middlesex,Y
+Graduate,Yes,10416,Urban,Middlesex,N
+Not Graduate,Yes,7142,Rural,Middlesex,Y
+Graduate,No,3660,Semiurban,Middlesex,Y
+Graduate,No,7901,Rural,Middlesex,Y
+Not Graduate,No,4707,Semiurban,Middlesex,Y
+Graduate,No,37719,Semiurban,Middlesex,Y
+Graduate,No,7333,Rural,Middlesex,Y
+Graduate,Yes,3466,Rural,Middlesex,Y
+Not Graduate,No,4652,Rural,Middlesex,Y
+Graduate,,3539,Rural,Hartford,N
+Graduate,No,3340,Rural,Hartford,N
+Not Graduate,Yes,2769,Semiurban,Hartford,N
+Not Graduate,No,2309,Rural,Hartford,N
+Not Graduate,No,1958,Urban,Hartford,Y
+Graduate,No,3948,Rural,Hartford,N
+Graduate,No,2483,Rural,Litchfield,Y
+Graduate,Yes,7085,Semiurban,Litchfield,Y
+Graduate,No,3859,Semiurban,Litchfield,Y
+Graduate,No,4301,Urban,Litchfield,Y
+Graduate,No,3708,Urban,Litchfield,N
+Graduate,No,4354,Rural,Litchfield,Y
+Graduate,No,8334,Semiurban,Litchfield,N
+Graduate,Yes,2083,Semiurban,Litchfield,Y
+Graduate,No,7740,Urban,Litchfield,Y
+Graduate,No,3015,Rural,Litchfield,Y
+Not Graduate,,5191,Semiurban,Litchfield,Y
+Graduate,No,4166,Semiurban,Litchfield,N
+Graduate,No,6000,Rural,Litchfield,Y
+Not Graduate,No,2947,Urban,Litchfield,N
+Graduate,No,16692,Semiurban,Litchfield,Y
+Not Graduate,,210,Semiurban,Litchfield,Y
+Graduate,No,4333,Urban,Litchfield,N
+Graduate,Yes,3450,Semiurban,Litchfield,Y
+Not Graduate,No,2653,Rural,Litchfield,N
+Graduate,No,4691,Semiurban,Litchfield,Y
+Graduate,Yes,2500,Urban,Litchfield,Y
+Graduate,No,5532,Rural,Litchfield,Y
+Graduate,Yes,16525,Rural,Litchfield,Y
+Graduate,No,6700,Semiurban,Litchfield,Y
+Graduate,No,2873,Semiurban,Litchfield,N
+Graduate,Yes,16667,Semiurban,Litchfield,Y
+Graduate,No,2947,Urban,Litchfield,N
+Not Graduate,No,4350,Rural,Litchfield,Y
+Not Graduate,No,3095,Rural,Litchfield,Y
+Graduate,No,2083,Semiurban,Litchfield,Y
+Graduate,No,10833,Semiurban,Litchfield,Y
+Graduate,No,8333,Semiurban,Litchfield,Y
+Not Graduate,No,1958,Rural,Middlesex,Y
+Graduate,No,3547,Rural,Middlesex,N
+Graduate,No,18333,Urban,Middlesex,N
+Graduate,Yes,4583,Semiurban,Middlesex,Y
+Graduate,No,2435,Urban,Middlesex,N
+Not Graduate,No,2699,Semiurban,Middlesex,Y
+Not Graduate,No,5333,Urban,Middlesex,Y
+Not Graduate,No,3691,Rural,Middlesex,Y
+Not Graduate,Yes,17263,Semiurban,Middlesex,Y
+Graduate,No,3597,Rural,Middlesex,N
+Graduate,No,3326,Semiurban,Middlesex,Y
+Not Graduate,No,2600,Rural,Middlesex,Y
+Graduate,No,4625,Urban,Middlesex,Y
+Graduate,Yes,2895,Semiurban,Middlesex,Y
+Graduate,No,6283,Rural,Middlesex,N
+Graduate,No,645,Rural,Middlesex,Y
+Graduate,No,3159,Semiurban,Middlesex,Y
+Graduate,No,4865,Semiurban,Middlesex,Y
+Not Graduate,No,4050,Rural,Middlesex,N
+Not Graduate,No,3814,Semiurban,Middlesex,Y
+Graduate,No,3510,Rural,Middlesex,Y
+Graduate,No,20833,Urban,Middlesex,Y
+Graduate,No,3583,Urban,Middlesex,N
+Graduate,Yes,2479,Urban,Middlesex,Y
+Graduate,No,13262,Urban,Middlesex,Y
+Not Graduate,No,3598,Rural,Connecticut,N
+Graduate,No,6065,Semiurban,Connecticut,Y
+Graduate,No,3283,Urban,Connecticut,Y
+Graduate,No,2130,Semiurban,Connecticut,N
+Graduate,No,5815,Rural,Connecticut,N
+Graduate,No,3466,Rural,Connecticut,Y
+Graduate,No,2031,Semiurban,Connecticut,Y
+Not Graduate,No,3074,Semiurban,Connecticut,N
+Graduate,No,4683,Semiurban,Connecticut,N
+Not Graduate,No,3400,Rural,Connecticut,N
+Not Graduate,No,2192,Semiurban,Connecticut,Y
+Graduate,No,2500,Semiurban,Connecticut,Y
+Graduate,Yes,5677,Rural,Connecticut,Y
+Graduate,Yes,7948,Rural,Connecticut,Y
+Graduate,No,4680,Semiurban,Connecticut,N
+Graduate,Yes,17500,Rural,Connecticut,Y
+Graduate,No,3775,Semiurban,Connecticut,Y
+Not Graduate,No,5285,Semiurban,Connecticut,Y
+Not Graduate,No,2679,Semiurban,Connecticut,Y
+Not Graduate,No,6783,Semiurban,Connecticut,Y
+Graduate,No,1025,Rural,Connecticut,Y
+Graduate,No,4281,Urban,Connecticut,Y
+Graduate,No,3588,Rural,Connecticut,N
+Graduate,No,11250,Semiurban,Connecticut,N
+Not Graduate,Yes,18165,Urban,Connecticut,Y
+Not Graduate,,2550,Rural,Connecticut,Y
+Graduate,No,6133,Urban,Connecticut,Y
+Graduate,No,3617,Semiurban,Connecticut,Y
+Not Graduate,No,2917,Rural,Connecticut,N
+Graduate,No,6417,Rural,Connecticut,Y
+Graduate,No,4608,Semiurban,Connecticut,Y
+Graduate,No,2138,Semiurban,Connecticut,N
+Graduate,,3652,Semiurban,Connecticut,Y
+Not Graduate,No,2239,Urban,Connecticut,Y
+Not Graduate,No,3017,Semiurban,Connecticut,Y
+Graduate,No,2768,Rural,Connecticut,Y
+Not Graduate,No,3358,Semiurban,Connecticut,N
+Graduate,No,2526,Rural,Connecticut,Y
+Graduate,No,5000,Semiurban,Connecticut,N
+Graduate,No,2785,Rural,Connecticut,Y
+Graduate,Yes,6633,Rural,Connecticut,N
+Not Graduate,No,2492,Rural,Connecticut,Y
+Graduate,No,3333,Urban,Connecticut,Y
+Not Graduate,No,2454,Urban,Connecticut,N
+Graduate,No,3593,Rural,Connecticut,N
+Graduate,No,5468,Semiurban,Connecticut,Y
+Graduate,No,2667,Urban,Connecticut,Y
+Graduate,Yes,10139,Semiurban,Connecticut,Y
+Graduate,No,3887,Semiurban,Connecticut,Y
+Graduate,No,4180,Semiurban,Connecticut,Y
+Not Graduate,No,3675,Semiurban,Connecticut,Y
+Graduate,Yes,19484,Semiurban,Connecticut,Y
+Graduate,No,5923,Rural,Connecticut,Y
+Not Graduate,Yes,5800,Semiurban,Connecticut,Y
+Graduate,No,8799,Urban,Connecticut,N
+Not Graduate,No,4467,Rural,Connecticut,Y
+Graduate,No,3333,Urban,Connecticut,Y
+Graduate,No,3400,Rural,Connecticut,N
+Graduate,No,2378,Urban,Connecticut,N
+Graduate,No,3166,Urban,Connecticut,N
+Graduate,No,3417,Urban,Connecticut,Y
+Graduate,No,5116,Urban,Connecticut,N
+Graduate,No,16666,Urban,Connecticut,Y
+Not Graduate,No,6125,Semiurban,Connecticut,N
+Graduate,No,6406,Semiurban,Connecticut,N
+Graduate,No,3159,Urban,Connecticut,Y
+Graduate,No,3087,Semiurban,Connecticut,N
+Graduate,No,3229,Urban,Connecticut,Y
+Graduate,No,1782,Rural,Connecticut,Y
+Graduate,,3182,Urban,Connecticut,Y
+Graduate,No,6540,Semiurban,Connecticut,Y
+Graduate,No,1836,Urban,Connecticut,N
+Graduate,No,3166,Semiurban,Connecticut,Y
+Graduate,No,1880,Rural,Connecticut,N
+Graduate,No,2787,Rural,Connecticut,N
+Graduate,No,4283,Rural,Connecticut,N
+Graduate,No,2297,Urban,Connecticut,Y
+Not Graduate,No,2165,Semiurban,Connecticut,Y
+Graduate,No,4750,Semiurban,Connecticut,Y
+Graduate,Yes,2726,Semiurban,Connecticut,N
+Graduate,No,3000,Semiurban,Connecticut,Y
+Graduate,Yes,6000,Semiurban,Connecticut,N
+Graduate,Yes,9357,Semiurban,Connecticut,Y
+Graduate,No,3859,Rural,Connecticut,Y
+Graduate,Yes,16120,Urban,Connecticut,Y
+Not Graduate,No,3833,Rural,Connecticut,Y
+Not Graduate,Yes,6383,Rural,Connecticut,N
+Graduate,No,2987,Semiurban,Connecticut,N
+Graduate,Yes,9963,Rural,Connecticut,Y
+Graduate,No,5780,Urban,Connecticut,Y
+Graduate,,416,Urban,Hartford,N
+Not Graduate,,2894,Rural,Hartford,Y
+Graduate,No,5703,Urban,Hartford,Y
+Graduate,No,3676,Rural,Hartford,Y
+Graduate,No,12000,Semiurban,Hartford,Y
+Not Graduate,No,2400,Urban,Hartford,N
+Graduate,No,3400,Semiurban,Hartford,Y
+Not Graduate,No,3987,Rural,Hartford,Y
+Graduate,No,3232,Rural,Hartford,Y
+Graduate,No,2900,Rural,Hartford,Y
+Graduate,No,4106,Rural,Hartford,Y
+Graduate,No,8072,Urban,Hartford,Y
+Graduate,No,7583,Urban,Hartford,Y
+Graduate,Yes,4583,Semiurban,Hartford,N
